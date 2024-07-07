@@ -1,5 +1,5 @@
-#### Mini Calculator ####
-to run this Currency Converter, please follow the following steps.
+#### Number Guess Game ####
+to run this, please follow the following steps.
 
 - npm install
-- npx currency-converter
+- npx number-guess-game
